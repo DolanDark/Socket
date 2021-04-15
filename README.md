@@ -1,1 +1,1 @@
-# Socket
+Barebones Socket application in python
